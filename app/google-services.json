@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508392603331",
+    "firebase_url": "https://ca-chua-it-default-rtdb.firebaseio.com",
+    "project_id": "ca-chua-it",
+    "storage_bucket": "ca-chua-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508392603331:android:c5c2670dd3dfc2000aec76",
+        "android_client_info": {
+          "package_name": "com.ducanh.cachua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508392603331-2r18i17s46hvfpdl73p3o2ss41ds192j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMKOdLcallBqjU2FMfKWSPQarVM2WBU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508392603331-2r18i17s46hvfpdl73p3o2ss41ds192j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

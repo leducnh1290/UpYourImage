@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Upload</string>
+    <string name="action_download">Download</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_profile">Profile</string>
+    <string name="databasereltime">https://ca-chua-it-default-rtdb.firebaseio.com/</string>
+</resources>
